@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\obj\Debug\netcoreapp3.0\Lab9 List of the students.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\obj\Debug\netcoreapp3.0\Lab9 List of the students.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\obj\Debug\netcoreapp3.0\Lab9 List of the students.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\bin\Debug\netcoreapp3.0\Lab9 List of the students.exe
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\bin\Debug\netcoreapp3.0\Lab9 List of the students.deps.json
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\bin\Debug\netcoreapp3.0\Lab9 List of the students.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\bin\Debug\netcoreapp3.0\Lab9 List of the students.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\bin\Debug\netcoreapp3.0\Lab9 List of the students.dll
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\bin\Debug\netcoreapp3.0\Lab9 List of the students.pdb
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\obj\Debug\netcoreapp3.0\Lab9 List of the students.dll
+C:\Users\Holmes HQ\source\repos\Lab9 List of the students\Lab9 List of the students\obj\Debug\netcoreapp3.0\Lab9 List of the students.pdb
